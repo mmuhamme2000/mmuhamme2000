@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmuhamme2000
-- 👀 I’m interested in ...networking security
+- 👀 Cyber security 
 - 🌱 I’m currently learning ...networking , cyberssecurity, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..mmuhamme2000@gmail.com
